@@ -1,15 +1,28 @@
-# Java compiled files
-*.class
-
-# Eclipse build folders
-bin/
-
-# Eclipse settings
+# Eclipse
+.project
+.classpath
 .settings/
 .metadata/
-.classpath
-.project
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build folders
+bin/
+target/
+build/
+out/
+
+# Compiled Java files
+*.class
+
+# Logs
+*.log
 
 # OS files
-Thumbs.db
 .DS_Store
+Thumbs.db
