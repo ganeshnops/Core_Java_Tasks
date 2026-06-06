@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Ganesh\Coding\Tasks\.metadata\.plugins\org.eclipse.jdt.core
-4278868755.index
-297428135.index
-1865797976.index
